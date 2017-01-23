@@ -1,0 +1,18 @@
+syntax: glob
+dev/Azure/Device/ESP8266/main/main/__vm
+dev/Azure/Device/ESP8266/main/main/Debug
+dev/Azure/Device/ESP8266/main/.vs/main/v14/.suo
+dev/Azure/Device/main/main/__vm
+dev/Azure/Device/main/main/Debug
+dev/Azure/Device/main/.vs/main/v14/.suo
+dev/SCT013/MainSD/.vs/MainSD/v14/.suo
+dev/SCT013/MainSD/MainSD/__vm
+dev/SCT013/MainSD/MainSD/Debug
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp.Droid/bin
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp.Droid/obj
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp.WinPhone/bin
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp.WinPhone/obj
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp.iOS/obj/iPhone/Debug
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp/bin
+dev/Mobile/EcoAmp/EcoAmp/EcoAmp/obj
+dev/Mobile/EcoAmp/.vs/EcoAmp/v14/.suo

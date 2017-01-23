@@ -1,0 +1,8 @@
+MyOvalShape, EcoAmp.Droid;md5248fb9728332270a3276157afb662813.MyOvalShape
+MyOvalShape, EcoAmp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5248fb9728332270a3276157afb662813.MyOvalShape
+MyOvalShape;md5248fb9728332270a3276157afb662813.MyOvalShape
+MyOvalShape;md5248fb9728332270a3276157afb662813.MyOvalShape
+EcoAmp.Droid.MainActivity, EcoAmp.Droid;md54a894b93efa82a757e17592d7d68e154.MainActivity
+EcoAmp.Droid.MainActivity, EcoAmp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54a894b93efa82a757e17592d7d68e154.MainActivity
+EcoAmp.Droid.MainActivity;md54a894b93efa82a757e17592d7d68e154.MainActivity
+ecoamp.droid.MainActivity;md54a894b93efa82a757e17592d7d68e154.MainActivity

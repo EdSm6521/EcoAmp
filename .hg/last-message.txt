@@ -1,0 +1,2 @@
++ dibujando linea
+! se conecta no recibe datos del servidor

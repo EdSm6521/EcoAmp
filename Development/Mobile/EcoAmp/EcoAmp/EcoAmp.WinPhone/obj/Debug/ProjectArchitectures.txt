@@ -1,0 +1,2 @@
+D:\Projects\Ciudad\EcoAmp\dev\Mobile\EcoAmp\EcoAmp\EcoAmp.WinPhone\EcoAmp.WinPhone.csproj;neutral
+D:\Projects\Ciudad\EcoAmp\dev\Mobile\EcoAmp\EcoAmp\EcoAmp\EcoAmp.csproj;neutral
